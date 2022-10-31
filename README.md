@@ -1,9 +1,9 @@
 ### Olá, me chamo Izabella! 👋
 
-<p>- 🔭 Sou __jornalista__ e mestranda em **Ciências da Comunicação**;<br>
-- 🌱 Estudante do **Empower Code for Woman**;<br>
-- 🤔 Estou aprendendo **JavaScript, CSS, HTML e NodeJS**;<br>
-- 💬 Adoro **viagens**, cultura pop, **séries**, literatura e **política**;<br>
-- 📫 Você pode me encontrar no [**LinkedIn**](https://www.linkedin.com/in/izabella-fonseca-costa-bueno/);<br>
-- ⚡ Sonho em me tornar **nômade digital**.</p>
+<p>- 🔭 Sou <b>jornalista</b> e mestranda em <b>Ciências da Comunicação</b>;<br>
+- 🌱 Estudante do <b>Empower Code for Woman</b>;<br>
+- 🤔 Estou aprendendo <b>JavaScript, CSS, HTML e NodeJS</b>;<br>
+- 💬 Adoro viagens, cultura pop, filmes, séries e política;<br>
+- 📫 Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/izabella-fonseca-costa-bueno/);<br>
+- ⚡ Sonho em me tornar <b>nômade digital</b>.</p>
 
