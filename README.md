@@ -1,6 +1,6 @@
 ### Olá, me chamo Izabella! 👋
 
-<p>- 🔭 Sou **jornalista** e mestranda em **Ciências da Comunicação**;<br>
+<p>- 🔭 Sou __jornalista__ e mestranda em **Ciências da Comunicação**;<br>
 - 🌱 Estudante do **Empower Code for Woman**;<br>
 - 🤔 Estou aprendendo **JavaScript, CSS, HTML e NodeJS**;<br>
 - 💬 Adoro **viagens**, cultura pop, **séries**, literatura e **política**;<br>
